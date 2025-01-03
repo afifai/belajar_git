@@ -1,1 +1,2 @@
 ini adalah file yang saya akan simpan di git
+setelah masuk staging area ada perubahan
